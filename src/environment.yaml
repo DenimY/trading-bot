@@ -1,0 +1,4 @@
+environment: dev
+production:
+  logging:
+    level: debug
